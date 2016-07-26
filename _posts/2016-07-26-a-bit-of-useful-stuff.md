@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Replicated - An Easier Path from SaaS to Enterprise
+title: A bit of useful stuff
 ---
 
 {{ page.title }}
