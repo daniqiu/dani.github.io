@@ -49,10 +49,3 @@ well written, and it covers a lot of techniques used in more advanced machine le
 
     </dd></dl>
 
-
-
-The company is [Replicated](http://replicated.com), and founders Grant Miller
-and Marc Campbell are making it easier to roll out an on-prem Enterprise
-offering based on an existing cloud-based SaaS product.
-
-
