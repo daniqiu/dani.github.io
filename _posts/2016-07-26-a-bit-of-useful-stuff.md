@@ -12,17 +12,17 @@ title: A bit of useful stuff
 <section id="textbooks">
 <h1>Textbooks</h1>
 
-<a href="http://statweb.stanford.edu/~tibs/ElemStatLearn/"><img src="/images/hastie-1x.png"  alt="The cover of Elements of Statistical Learning"></a>
+<a href="http://statweb.stanford.edu/~tibs/ElemStatLearn/"><img src="/images/hastie-2x.png"  alt="The cover of Elements of Statistical Learning"></a>
 
-<a href="http://www-bcf.usc.edu/~gareth/ISL/"><img src="/images/james-1x.jpg" srcset="/images/james-1x.jpg 1x, /images/james-2x.jpg 2x, /images/james-3x.jpg 3x" alt="The cover of An Introduction to Statistical Learning"></a>
+<a href="http://www-bcf.usc.edu/~gareth/ISL/"><img src="/images/james-2x.jpg" srcset="/images/james-2x.jpg 1x, /images/james-2x.jpg 2x, /images/james-3x.jpg 3x" alt="The cover of An Introduction to Statistical Learning"></a>
 
-<a href="http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage"><img src="/images/barber-1x.jpg" srcset="/images/barber-1x.jpg 1x, /images/barber-2x.jpg 2x, /images/barber-3x.jpg 3x" alt="The cover of Bayesian Reasoning and Machine Learning"></a>
+<a href="http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage"><img src="/images/barber-2x.jpg" srcset="/images/barber-2x.jpg 1x, /images/barber-2x.jpg 2x, /images/barber-3x.jpg 3x" alt="The cover of Bayesian Reasoning and Machine Learning"></a>
 
-<a href="https://research.microsoft.com/en-us/um/people/cmbishop/PRML/"><img src="/images/bishop-1x.jpg" srcset="/images/bishop-1x.jpg 1x, /images/bishop-2x.jpg 2x, /images/bishop-3x.jpg 3x" alt="The cover of Pattern Recognition and Machine Learning"></a>
+<a href="https://research.microsoft.com/en-us/um/people/cmbishop/PRML/"><img src="/images/bishop-2x.jpg" srcset="/images/bishop-2x.jpg 1x, /images/bishop-2x.jpg 2x, /images/bishop-3x.jpg 3x" alt="The cover of Pattern Recognition and Machine Learning"></a>
 
-<a href="http://www.cs.ubc.ca/~murphyk/MLbook/index.html"><img src="/images/murphy-1x.jpg" srcset="/images/murphy-1x.jpg 1x, /images/murphy-2x.jpg 2x, /images/murphy-3x.jpg 3x" alt="The cover of Machine Learning: a Probabilistic Perspective"></a>
+<a href="http://www.cs.ubc.ca/~murphyk/MLbook/index.html"><img src="/images/murphy-2x.jpg" srcset="/images/murphy-2x.jpg 1x, /images/murphy-2x.jpg 2x, /images/murphy-3x.jpg 3x" alt="The cover of Machine Learning: a Probabilistic Perspective"></a>
 
-<a href="http://stanford.edu/~boyd/cvxbook/"><img src="/images/boyd-1x.jpg" srcset="/images/boyd-1x.jpg 1x, /images/boyd-2x.jpg 2x, /images/boyd-original.jpg 3x" alt="The cover of Convex Optimization"></a>
+<a href="http://stanford.edu/~boyd/cvxbook/"><img src="/images/boyd-2x.jpg" srcset="/images/boyd-2x.jpg 1x, /images/boyd-2x.jpg 2x, /images/boyd-original.jpg 3x" alt="The cover of Convex Optimization"></a>
 
 <dl>
 
