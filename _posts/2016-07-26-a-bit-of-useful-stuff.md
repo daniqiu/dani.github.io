@@ -12,7 +12,7 @@ title: A bit of useful stuff
 <section id="textbooks">
 <h1>Textbooks</h1>
 
-<a href="http://statweb.stanford.edu/~tibs/ElemStatLearn/"><img src="images/hastie-1x.png" srcset="images/hastie-1x.png 1x, images/hastie-2x.jpg 2x, images/hastie-3x.jpg 3x" alt="The cover of Elements of Statistical Learning"></a>
+<a href="http://statweb.stanford.edu/~tibs/ElemStatLearn/"><img src="images/hastie-1x.png"  alt="The cover of Elements of Statistical Learning"></a>
 
 <a href="http://www-bcf.usc.edu/~gareth/ISL/"><img src="images/james-1x.jpg" srcset="images/james-1x.jpg 1x, images/james-2x.jpg 2x, images/james-3x.jpg 3x" alt="The cover of An Introduction to Statistical Learning"></a>
 
