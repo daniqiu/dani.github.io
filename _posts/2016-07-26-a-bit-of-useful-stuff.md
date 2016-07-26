@@ -7,6 +7,7 @@ title: A bit of useful stuff
 ================
 
 <p class="meta">19 Jul 2016 - Beijing</p>
+Adapted from David Rosenberg · [MACHINE LEARNING AND COMPUTATIONAL STATISTICS](https://davidrosenberg.github.io/ml2016/#home) · DS-GA 1003 · SPRING 2016 · NYU CENTER FOR DATA SCIENCE
 
 <h1>Textbooks</h1>
 
