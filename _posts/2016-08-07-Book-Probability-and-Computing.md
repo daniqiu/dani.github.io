@@ -1,6 +1,6 @@
 ---
 layout: post
-title: daily log
+title: Book-Probability-and-Computing
 ---
 
 {{ page.title }}
@@ -8,6 +8,8 @@ title: daily log
 <Professor Michael Mitzenmacher>
 
 [personal webpage](http://www.eecs.harvard.edu/~michaelm/)
+
+
 rediscover this awesome guy randomly by his good work on Bloom Filters with famous Andrei Broder. [paper](http://www.eecs.harvard.edu/~michaelm/postscripts/im2005b.pdf)
 
 
