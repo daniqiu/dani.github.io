@@ -6,6 +6,7 @@ title: Book-Probability-and-Computing
 {{ page.title }}
 ================
 
+# Professor Michael Mitzenmacher
 
 [personal webpage](http://www.eecs.harvard.edu/~michaelm/) 
 
