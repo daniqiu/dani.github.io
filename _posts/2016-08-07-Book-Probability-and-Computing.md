@@ -6,7 +6,6 @@ title: Book-Probability-and-Computing
 {{ page.title }}
 ================
 
-# Book-Probability-and-Computing
 
 [personal webpage](http://www.eecs.harvard.edu/~michaelm/) 
 
