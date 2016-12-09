@@ -30,6 +30,6 @@ real estate bubble
 
 so stay tuned!
 
-physical products and digital/spiritual product, by digital products we mean games, movies, television shows, sports and music. All the things we take for granted in the west, many of which are not available in China.
+physical products and digital/spiritual product, by digital products we mean games, movies, television shows, sports and music, all the things we take for granted in the west, many of which are not available in China.
 
 
